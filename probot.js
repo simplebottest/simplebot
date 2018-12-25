@@ -452,10 +452,6 @@ client.on('message', message => {
  #credit يوريك كم الكريديت حقتك
 
  #daily يسوي لك سحب فلوس
-
- #rep يعطي ريب
-
- #profile معلومات عامة مع الصورة
  
 [❖═════ Administrator Commands ═══════❖]
 
