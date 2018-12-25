@@ -846,4 +846,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("token Your Bot Here");
+client.login(process.env.BOT_TOKEN);  //لا تحط التوكن حقك هنا
