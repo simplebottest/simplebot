@@ -41,7 +41,6 @@ client.on("message", message => {
       }
       score.points++;
       const curLevel = Math.floor(0.1 * Math.sqrt(score.points));
-      client.setScore.run(score);
     }
     if (message.content.indexOf(prefix) !== 0) return;
   
